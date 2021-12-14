@@ -1,4 +1,4 @@
-import { Redirect } from "../Router/Router";
+import { Redirect } from "../Router/Router.js";
 
 const connexionHTML = 
 `<div id="connexion">
