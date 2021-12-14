@@ -1,4 +1,4 @@
-import { Redirect } from "../Router/Router";
+import { Redirect } from "../Router/Router.js";
 import Quizz from "../Domain/Quizz";
 
 let questionHTML=
